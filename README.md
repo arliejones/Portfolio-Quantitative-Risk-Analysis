@@ -1,6 +1,6 @@
 # Portfolio-Quantitative-Risk-Analysis
 
-This program was built to analyze risk and return to build an investment portfolio for a client. The program evaluates four new investment options for inclusion in the client's portfolio. The program will run through the key risk-management metrics to determine the fund with the best potential. This includes calculating daily returns, standard deviations, Sharpe ratios, and betas. 
+This program was built to analyze risk and return to build an investment portfolio for a client. The program evaluates four new investment options for inclusion in the client's portfolio. The program will run through the key risk-management metrics to determine the fund with the best potential. This includes calculating daily returns, standard deviations, Sharpe ratios, and betas as well as plotting visualizations for each.
 
 ----
 
