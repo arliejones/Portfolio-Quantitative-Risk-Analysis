@@ -27,13 +27,13 @@ This program uses the Pandas library. If the user is not already running an envi
 ## Usage
 For the program to run correctly, the user must make sure that all libraries and dependencies are correctly imported in the beginning of the code. This looks like:
 
-'import pandas as pd'
+`import pandas as pd`
 
-'import numpy as np'
+`import numpy as np`
 
-'from pathlib import Path'
+`from pathlib import Path`
 
-'%matplotlib inline'
+`%matplotlib inline`
 
 The user must also make sure that their reference to the whale_navs.csv file reflects the correct location in their directory.
 
@@ -45,7 +45,8 @@ If needed, activate the dev environment.
 
 Type 'run *app_name*.py' and hit enter.
 
-The program is comprised of 6 parts:
+
+### The program is comprised of 6 parts:
 
 1. Import the Data
 
